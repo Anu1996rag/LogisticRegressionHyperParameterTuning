@@ -1,4 +1,4 @@
-# Logistic Regression HyperParameter Tuning
+# Logistic Regression Hyper Parameter Tuning
 This is to understand the concept of Parameter Tuning of Logistic Regression using GridSearchCV and understand the StreamLit library to build a data app.
 
 In this project , I tried to understand the concept of **hyper parameter tuning in Logistic Regression**.</br>
@@ -22,10 +22,14 @@ For building the above code into a data app , I have used **Streamlit** library.
 This is an awesome library I have come up with.<br/>
 
 Please pass in the below instruction on your terminal to install it.<br/>
+<br/>
 `pip install streamlit`
 <br/>
+<br/>
 After installing , to make sure it has been successfully installed , run the below command.<br/>
+<br/>
 `streamlit hello`
+<br/>
 <br/>
 This will automatically open a new tab in your browser.<br/>
 
