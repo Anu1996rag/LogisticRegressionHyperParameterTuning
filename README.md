@@ -18,9 +18,9 @@ Here , are the **list of libraries and techniques** I used to get it started.
 <br/>
 Please use the below command to install all the dependencies I used in the above code.
 <br/>
-<br/>
+
 `pip install -r requirements.txt`
-<br/>
+
 <br/>
 I have referred to the below video on YouTube to get it started.<br/>
 Please do check out.<br/>
