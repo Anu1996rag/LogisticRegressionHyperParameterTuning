@@ -42,6 +42,7 @@ But , I will recommend you to watch this video below which I referred by **Data 
 
 To run the above the code , navigate to the folder through the terminal where the *.py* file is stored and enter the below command.<br/>
 In this case ,<br/>
+<br/>
 `streamlit run iris_classification.py`
 <br/>
 <br/>
