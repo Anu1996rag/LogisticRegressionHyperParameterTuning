@@ -23,13 +23,15 @@ This is an awesome library I have come up with.<br/>
 
 Please pass in the below instruction on your terminal to install it.<br/>
 `pip install streamlit`
-
+<br/>
 After installing , to make sure it has been successfully installed , run the below command.<br/>
 `streamlit hello`
+<br/>
 This will automatically open a new tab in your browser.<br/>
 
 Below is the link for streamlit documentation.<br/>
 [Streamlit](https://www.streamlit.io/)
+<br/>
 
 But , I will recommend you to watch this video below which I referred by **Data Professor**.<br/>
 [How to Build a Simple Machine Learning Web App in Python (Streamlit Tutorial Part 2)](https://youtu.be/8M20LyCZDOY)
@@ -38,7 +40,9 @@ To run the above the code , navigate to the folder through the terminal where th
 In this case ,<br/>
 `streamlit run iris_classification.py`
 <br/>
-Please go ahead and check out on yourself the magic of streamlit.:smile:
+<br/>
+<br/>
+Please go ahead and check out on yourself the magic of streamlit with just a few lines of code.:smile:
 
 
 
