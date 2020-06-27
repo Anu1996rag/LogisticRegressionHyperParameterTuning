@@ -31,7 +31,7 @@ This will automatically open a new tab in your browser.<br/>
 Below is the link for streamlit documentation.<br/>
 [Streamlit](https://www.streamlit.io/)
 
-But , I will recommend you to watch this video below which I referred by **Data Professor**.@Chanin Nantasenamat<br/>
+But , I will recommend you to watch this video below which I referred by **Data Professor**.<br/>
 [How to Build a Simple Machine Learning Web App in Python (Streamlit Tutorial Part 2)](https://youtu.be/8M20LyCZDOY)
 
 To run the above the code , navigate to the folder through the terminal where the *.py* file is stored and enter the below command.<br/>
