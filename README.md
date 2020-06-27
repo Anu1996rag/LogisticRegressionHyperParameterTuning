@@ -48,13 +48,17 @@ Below is the link for streamlit documentation.<br/>
 But , I will recommend you to watch this video below which I referred by **Data Professor**.<br/>
 [How to Build a Simple Machine Learning Web App in Python (Streamlit Tutorial Part 2)](https://youtu.be/8M20LyCZDOY)
 
-
 ### Running the code 
 To run the above the code , navigate to the folder through the terminal where the *.py* file is stored and enter the below command.<br/>
 In this case ,<br/>
 <br/>
 `streamlit run iris_classification.py`
 <br/>
+<br/>
+<br/>
+
+#### Output :
+![Iris Classification App](https://github.com/Anu1996rag/LogisticRegressionHyperParameterTuning/blob/master/Output.PNG)
 <br/>
 <br/>
 Please go ahead and check out on yourself the magic of streamlit with just a few lines of code.:smile:
