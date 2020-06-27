@@ -14,6 +14,14 @@ Here , are the **list of libraries and techniques** I used to get it started.
 7. Cross-Validation 
 8. Streamlit 
 
+### Dependencies 
+<br/>
+Please use the below command to install all the dependencies I used in the above code.
+<br/>
+<br/>
+`pip install -r requirements.txt`
+<br/>
+<br/>
 I have referred to the below video on YouTube to get it started.<br/>
 Please do check out.<br/>
 [Data Science Projects | Code tutorial| Python | Hyper-parameter tuning| 6. Logistic Reg. Gridsearch](https://youtu.be/Sak_XgE5AjM)
@@ -40,6 +48,8 @@ Below is the link for streamlit documentation.<br/>
 But , I will recommend you to watch this video below which I referred by **Data Professor**.<br/>
 [How to Build a Simple Machine Learning Web App in Python (Streamlit Tutorial Part 2)](https://youtu.be/8M20LyCZDOY)
 
+
+### Running the code 
 To run the above the code , navigate to the folder through the terminal where the *.py* file is stored and enter the below command.<br/>
 In this case ,<br/>
 <br/>
